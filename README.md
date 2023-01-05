@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @shashank Dutt
 - 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning and working with Tech
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning and working with as a fullstack dev.
 
 <!---
 shashankduttmr/shashankduttmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
