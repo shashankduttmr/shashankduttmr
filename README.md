@@ -1,6 +1,6 @@
-- 👋 こんにちは、私は@shashank Duttです.
-- 👀 フルスタックに興味がある.
-- 🌱 私は現在、フルスタック開発者として学び、一緒に働いています。
+- 👋 Hi, I'm @shashank Dutt.
+- 👀 Interested in full stack.
+- 🌱 I am currently learning and working together as a full-stack developer.
 
 <!---
 shashankduttmr/shashankduttmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
